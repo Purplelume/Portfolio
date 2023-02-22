@@ -1,16 +1,15 @@
-# horiseon-webpage-code-refactor
+# Purplelume-Portfolio
 
 ## Description
 
-This project is a code refactor that is done to make the code more accessible and efficient.
+This project is a begginner Portfolio using HTML and CSS only.
 
 ### Actions done
-* A descriptive title was added
-* CSS was reorganized to follow a logical structure
-* Replacing old HTML elements with new semantic HTML elements
-* Alt description was added to images
+* Title and structure were added
+* CSS is organized to follow a logical structure
+* Adding resizing of the page o adapt at all sizes of screens
 
 ![screenshot of index.html](./assets/images/cattura.PNG)
 
 ### Link of deployed application
-[Link to the deployed website](https://purplelume.github.io/Horiseon-webpage/)
+[Link to the deployed website]()
