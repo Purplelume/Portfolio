@@ -12,4 +12,4 @@ This project is a begginner Portfolio using HTML and CSS only.
 ![screenshot of index.html](./assets/images/cattura.PNG)
 
 ### Link of deployed application
-[Link to the deployed website]()
+[Link to the deployed website](https://purplelume.github.io/Portfolio/)
