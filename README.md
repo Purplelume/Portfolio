@@ -1,15 +1,25 @@
-# Purplelume-Portfolio
+# Purplelume Portfolio
 
 ## Description
 
-This project is a begginner Portfolio using HTML and CSS only.
+This Portfolio is a beginner's showcase, built using HTML and CSS exclusively.
 
-### Actions done
-* Title and structure were added
-* CSS is organized to follow a logical structure
-* Adding resizing of the page o adapt at all sizes of screens
+### Key Enhancements
 
-![screenshot of index.html](./assets/images/cattura.PNG)
+Here's how this project has been improved:
 
-### Link of deployed application
-[Link to the deployed website](https://purplelume.github.io/Portfolio/)
+1. **Title and Structure**: A descriptive title and well-thought-out structure have been incorporated to provide a clear understanding of the portfolio's purpose and content.
+
+2. **Logical CSS Organization**: The CSS code has been carefully structured, ensuring a logical and organized approach to styling the portfolio. This enhances code maintainability and readability.
+
+3. **Responsive Design**: The portfolio now features responsive design elements, allowing it to adapt seamlessly to screens of all sizes, providing a better user experience.
+
+![Screenshot of the Portfolio](./assets/images/cattura.PNG)
+
+### Explore the Portfolio
+
+To view the beginner portfolio and its contents, please visit the deployed website:
+
+[**Portfolio Website**](https://purplelume.github.io/Portfolio/)
+
+Feel free to navigate through and get to know more about the showcased work and projects!
